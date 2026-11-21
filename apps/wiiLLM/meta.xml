@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>wii-LLM</name>
+  <coder>based on llama2.c by Andrej Karpathy</coder>
+  <version>0.1</version>
+  <release_date>20261120000000</release_date>
+  <short_description>Chat with a tiny LLM running on the Wii</short_description>
+  <long_description>wii-LLM runs a small int8 llama2.c language model (TinyStories) on the Wii's CPU.
+Type English with the on-screen text keyboard (D-pad + A, B = delete, ^ = send).
+Needs model.bin and tokenizer.bin in the same folder.</long_description>
+</app>
